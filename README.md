@@ -18,13 +18,17 @@ Spesifikasi:
 
 ## Dokumentasi
 `video demo`
+
 https://github.com/dickifathurohman/LP9DPBO2023C2/assets/100754802/511142f4-1b80-4e40-b7e9-941a43bf3d5f
 
 `Landing Page`
+
 ![image](https://github.com/dickifathurohman/LP9DPBO2023C2/assets/100754802/23ff7221-1862-48e3-9bfd-cfb928aff3b0)
 
 `Daftar Residen`
+
 ![image](https://github.com/dickifathurohman/LP9DPBO2023C2/assets/100754802/fd6beafc-56af-4e33-9be0-70eb48979a9d)
 
 `Detail`
+
 ![image](https://github.com/dickifathurohman/LP9DPBO2023C2/assets/100754802/d8124703-4c50-4c0f-9013-67763be6c617)
